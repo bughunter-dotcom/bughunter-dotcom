@@ -4,8 +4,10 @@ Independent engineering studio for short, testable software-delivery engagements
 
 ## Available now
 
-- [**API / CI / QA debugging sprint — 120 USDC on Base**](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
-- [**Playwright end-to-end testing and CI sprint — 120 USDC on Base**](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
+- [**API / CI / QA debugging sprint — 120 USDC or USDT**](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
+- [**Playwright end-to-end testing and CI sprint — 120 USDC or USDT**](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
+
+Direct settlement: **Ethereum ERC-20 preferred**; TRON TRC-20 is available for USDT. Base USDC is used only when an escrow or marketplace is Base-native.
 
 Typical scope:
 
