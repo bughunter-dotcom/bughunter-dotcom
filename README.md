@@ -4,7 +4,8 @@ Independent engineering studio for short, testable software-delivery engagements
 
 ## Available now
 
-[**Buy a 48-hour API / CI / QA debugging sprint — 120 USDC on Base through LaborX escrow**](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
+- [**API / CI / QA debugging sprint — 120 USDC on Base**](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
+- [**Playwright end-to-end testing and CI sprint — 120 USDC on Base**](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
 
 Typical scope:
 
@@ -17,4 +18,5 @@ Typical scope:
 Every engagement has objective acceptance criteria and includes a root-cause explanation, patch, reproducible verification, and concise handoff. Production changes require explicit approval and a backup.
 
 - [Service details and request form](https://github.com/bughunter-dotcom/agent-services)
-- [LaborX escrow listing](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
+- [LaborX API / CI / QA listing](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
+- [LaborX Playwright / E2E listing](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
