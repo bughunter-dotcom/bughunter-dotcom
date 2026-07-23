@@ -23,3 +23,4 @@ Every engagement has objective acceptance criteria and includes a root-cause exp
 - [Service details and request form](https://github.com/bughunter-dotcom/agent-services)
 - [LaborX API / CI / QA listing](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
 - [LaborX Playwright / E2E listing](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
+- [LaborX crypto-payment reliability listing](https://laborx.com/gigs/i-will-harden-crypto-payment-webhooks-and-prevent-double-spending-109302)
