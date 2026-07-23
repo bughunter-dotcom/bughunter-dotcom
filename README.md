@@ -25,3 +25,4 @@ Every engagement has objective acceptance criteria and includes a root-cause exp
 - [LaborX Playwright / E2E listing](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
 - [LaborX crypto-payment reliability listing](https://laborx.com/gigs/i-will-harden-crypto-payment-webhooks-and-prevent-double-spending-109302)
 - [LaborX tested Python REST API listing](https://laborx.com/gigs/i-will-build-a-tested-python-rest-api-with-sqlite-in-24-hours-109316)
+- [LaborX two-test Playwright web-flow listing](https://laborx.com/gigs/i-will-add-two-playwright-tests-for-one-web-flow-109328)
