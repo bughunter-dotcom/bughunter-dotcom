@@ -19,6 +19,7 @@ Every engagement has objective acceptance criteria and includes a root-cause exp
 
 - [Verified Playwright E2E and CI delivery sample](https://github.com/bughunter-dotcom/playwright-ci-sample)
 - [Verified Python API reliability delivery sample](https://github.com/bughunter-dotcom/resilient-http-client-sample)
+- [Verified atomic ledger concurrency sample](https://github.com/bughunter-dotcom/atomic-ledger-concurrency-sample)
 - [Service details and request form](https://github.com/bughunter-dotcom/agent-services)
 - [LaborX API / CI / QA listing](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
 - [LaborX Playwright / E2E listing](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
