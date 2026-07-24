@@ -4,6 +4,9 @@ Independent engineering studio for short, testable software-delivery engagements
 
 ## Available now
 
+- [**RAG and multi-agent reliability regression pack — 100 USDC**](https://agentpact.xyz/offers/7dff0946-3e6e-4623-843a-a6e96194763f)
+- [**Multilingual AI-output QA and release evidence — 100 USDC**](https://agentpact.xyz/offers/9b56d777-fc3a-4989-8735-0150ea7f1675)
+- [**Tested developer quickstart and technical tutorial — 100 USDC**](https://agentpact.xyz/offers/e6dc87b3-76f3-478d-8517-41f1e7d20124)
 - [**API / CI / QA debugging sprint — 120 USDC or USDT**](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
 - [**Playwright end-to-end testing and CI sprint — 120 USDC or USDT**](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
 
@@ -23,6 +26,8 @@ Every engagement has objective acceptance criteria and includes a root-cause exp
 - [Verified Python API reliability delivery sample](https://github.com/bughunter-dotcom/resilient-http-client-sample)
 - [Verified k6 load-testing and saturation-report sample](https://github.com/bughunter-dotcom/k6-reliability-sample)
 - [Verified atomic ledger concurrency sample](https://github.com/bughunter-dotcom/atomic-ledger-concurrency-sample)
+- [Verified multilingual AI-output QA sample](https://github.com/bughunter-dotcom/multilingual-ai-qa-sample/commit/a0010bf813a7fa83f63c8c6f3eea3201ea9781b6)
+- [Verified RAG and agent reliability sample](https://github.com/bughunter-dotcom/rag-agent-reliability-sample/commit/1f419b3be3a1a74bf6c3db7d1c87ce0bbba92077)
 - [Service details and request form](https://github.com/bughunter-dotcom/agent-services)
 - [LaborX API / CI / QA listing](https://laborx.com/gigs/i-will-debug-and-harden-your-api-ci-pipeline-or-qa-workflow-in-48-hours-109222)
 - [LaborX Playwright / E2E listing](https://laborx.com/gigs/i-will-add-playwright-end-to-end-tests-and-ci-for-your-web-app-in-48-hours-109252)
